@@ -4,3 +4,7 @@ importante se dedicar a você que deseja seguir na carreira de programador.
 --> Então por isso aqui trago alguns exercícios para que você se dedique
 e se auto desafie. 
 👀  Bora começar...
+
+▶ 😀👀Bora lá....
+
+Gostou, então já deixa a🌟
