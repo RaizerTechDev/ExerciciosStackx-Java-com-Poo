@@ -7,7 +7,7 @@ a você que deseja seguir na carreira de programador.
 ## Olá  <img src="https://media.giphy.com/media/l1J9sBOqBIvnafnUc/giphy.gif" align="center" width="85">
 
 ### "Desafio Novo" pra vocês turma👇
-14. Faça um programa no console que calcule e imprima o salário
+14. Faça um programa no console que calcule e imprima o salário(Valores no código)
 15. Faça um programa no console que calcule e imprima o salário no console, segue o link ⏬
 
  👉https://github.com/RafaRz76Dev/Java-com-Poo/tree/Rafa/JavaExercicios02
