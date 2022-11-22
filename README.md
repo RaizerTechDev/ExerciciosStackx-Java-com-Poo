@@ -16,8 +16,9 @@ a você que deseja seguir na carreira de programador.
  
  *** 
  ### <img src="https://media.giphy.com/media/eBqEQyWGdgSNgRVLCV/giphy.gif" align="center" height="80" width="80"> Ferramenta Do Desafio⁉
+<img alt="Eclipse" src="eclipse-logo.gif" height="80" width="70">
 
-<img alt="Eclipse" src="eclipse-logo.gif" height="40" width="50">
+***
 
 ▶ 😀👀Bora lá....
 
