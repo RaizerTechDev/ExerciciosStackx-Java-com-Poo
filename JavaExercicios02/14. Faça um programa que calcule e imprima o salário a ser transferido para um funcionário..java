@@ -1,8 +1,8 @@
-// 14. FaÁa um programa que calcule e imprima o sal·rio a ser transferido para um funcion·rio.
-// Para realizar o calculo receba o valor bruto do sal·rio e o adicional dos benefÌcios.
-// O sal·rio a ser transferido È calculado da seguinte maneira: 
+// 14. Fa√ßa um programa que calcule e imprima o sal√°rio a ser transferido para um funcion√°rio.
+// Para realizar o calculo receba o valor bruto do sal√°rio e o adicional dos benef√≠cios.
+// O sal√°rio a ser transferido √© calculado da seguinte maneira: 
 
-// (valor bruto do sal·rio - percentual de imposto mediante ao sal·rio) + adicional dos benefÌcios
+// (valor bruto do sal√°rio - percentual de imposto mediante ao sal√°rio) + adicional dos benef√≠cios
 
 // Para calcular o percentual de imposto segue as aliquotas:
 
@@ -12,11 +12,11 @@
 
 import java.util.Scanner;
 
-public class Exerc14 {
+public class Exercicio14 {
 	
 	public static void main(String[] args) {
 
-		// LÍ os valores de Entrada:
+		// L√™ os valores de Entrada:
 		Scanner leitorDeEntradas = new Scanner(System.in);
 
 		float valorSalario = 2000;
@@ -24,21 +24,21 @@ public class Exerc14 {
 		float valorImposto = 200;
 
 		if (valorSalario >= 0 && valorSalario <= 1100) {
-			// Atribiu a aliquota de 5% mediante o sal·rio:
+			// Atribiu a aliquota de 5% mediante o sal√°rio:
 			valorImposto = 0.05F * valorSalario;
 		}
-		// TODO Criar as demais condiÁıes para as aliquotas de 10.00% e 15.00%.
+		// TODO Criar as demais condi√ß√µes para as aliquotas de 10.00% e 15.00%.
 
 		if (valorSalario > 1100 && valorSalario <= 2500) {
-			// Atribiu a aliquota de 10% mediante o sal·rio:
+			// Atribiu a aliquota de 10% mediante o sal√°rio:
 			valorImposto = 0.10F * valorSalario;
 		}
 		if (valorSalario > 2500) {
-			// Atribiu a aliquota de 15% mediante o sal·rio:
+			// Atribiu a aliquota de 15% mediante o sal√°rio:
 			valorImposto = 0.15F * valorSalario;
 		}
 
-		// Calcula e imprime a SaÌda (com 2 casas decimais):
+		// Calcula e imprime a Sa√≠da (com 2 casas decimais):
 		float saida = valorSalario - valorImposto + valorBeneficios;
 		System.out.println(String.format("%.2f", saida));
 	}
