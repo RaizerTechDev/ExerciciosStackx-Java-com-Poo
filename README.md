@@ -11,7 +11,14 @@ a você que deseja seguir na carreira de programador.
 <img src="https://media.giphy.com/media/d8d1s6bzvm0C6igwUL/giphy.gif" align="center" width="145">
 
 ### 14. Faça um programa no console que calcule e imprima o salário(Valores no código)
-### 15. Faça um programa no console que calcule e imprima o salário no console, 
+### 15. Faça um programa no console que calcule e imprima o salário no console
+
+### <img src="https://media.giphy.com/media/6FluZliO3d8VOXMMCS/giphy.gif" align="center"  height="95"  width="145"> ➕ 4️⃣ Exercícios/Desafios👇
+### 16. GratificaçãoNatal
+### 17. AumentoSalario
+### 18.  RetornarBinarioparaDecimal no código
+### 19. RetornarBinarioparaDecimal no console
+
 
 ### Segue o link ⏬
 
@@ -25,7 +32,7 @@ a você que deseja seguir na carreira de programador.
 
 ***
 
-### <img src="https://media.giphy.com/media/JO9WCVmDMbC0eLSlyV/giphy.gif" align="center" height="50" width="50"> &nbsp;Linguagem Tecnológica do Desafio:
+### <img src="https://media.giphy.com/media/JO9WCVmDMbC0eLSlyV/giphy.gif" align="center" height="50" width="50"> &nbsp;Linguagem Tech do Desafio:
 <img style="width: 100px" alt="Java" src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" height="60" width="70">
 <br />
 
