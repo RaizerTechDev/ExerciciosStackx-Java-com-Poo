@@ -24,6 +24,12 @@ a você que deseja seguir na carreira de programador.
  👉https://www.eclipse.org/downloads/
 
 ***
+
+### <img src="https://media.giphy.com/media/JO9WCVmDMbC0eLSlyV/giphy.gif" align="center" height="50" width="50"> &nbsp;Linguagem Tecnológica do Desafio:
+<img style="width: 100px" alt="Java" src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" height="60" width="70">
+<br />
+
+***
 ###  <img src="https://media.giphy.com/media/LvNhZTkpuQyYBpI2Bo/giphy-downsized-large.gif" align="center" height="145" width="125"> &nbsp; Bora pro Desafio <img src="https://media.giphy.com/media/jnqUQYdH5l9CPiGtTw/giphy.gif" align="center" height="50" width="50">
 
 ***
