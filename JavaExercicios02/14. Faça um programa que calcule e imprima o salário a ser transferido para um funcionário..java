@@ -21,7 +21,7 @@ public class Exercicio14 {
 
 		float valorSalario = 2000;
 		float valorBeneficios = 250;
-		float valorImposto = 200;
+		float valorImposto = 0;
 
 		if (valorSalario >= 0 && valorSalario <= 1100) {
 			// Atribiu a aliquota de 5% mediante o salário:
